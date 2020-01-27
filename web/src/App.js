@@ -75,7 +75,7 @@ class App extends React.Component {
         <Container>
           <Header as='h2' icon inverted textAlign='center'>
             <Icon name='grid layout' />
-            /hgg2d/ ipfs viewer
+            /hgg2d/ ipfs previewer
           <Header.Subheader>
               Copy paste ipfs repo link below, kudos to DL Site Previewer for parsing code.
           </Header.Subheader>
